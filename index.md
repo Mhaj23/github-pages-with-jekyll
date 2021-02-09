@@ -1,3 +1,3 @@
-# Welcome to my blog
+# This is a test site.
 
-I'm glad you are here. I plan to talk about ...
+Github is pretty neat.
